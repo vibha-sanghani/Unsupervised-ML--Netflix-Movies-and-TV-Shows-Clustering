@@ -1,4 +1,4 @@
-# 🎬 Unsupervised-ML-Netflix-Movies-and-TV-Shows-Clustering
+# 🎬 Netflix-Movies-and-TV-Shows (Unsupervised - Clustering)
 
 ## 📌 Project Overview
 
