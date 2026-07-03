@@ -38,7 +38,7 @@ The dataset contains key attributes such as:
 
 4. **Clustering Algorithms**
    - 🚀 **K-Means Clustering**: Segmenting shows into meaningful clusters.
-   - 🔍 ** Silhouette Score for Clustering**: metric used to evaluate.
+   - 🔍 **Silhouette Score for Clustering**: metric used to evaluate.
    -   Used the silhouette method and k-means elbow method to find optimal number of clusters and built recommender system by cosine 
        similarity and recommended top ten movies
 
@@ -69,7 +69,7 @@ To cluster the content, I focused on six key attributes: director, cast, country
 These attributes were transformed using TF-IDF vectorization, resulting in 9,000 features.
 
 To tackle the curse of dimensionality, I applied Principal Component Analysis (PCA), reducing the feature space to 2,500 components while retaining over 80% of the variance.
-I implemented the K-Means algorithm to cluster the shows. The elbow method suggested an optimal cluster count of 6, while the Silhouette score analysis indicated that 10 clusters provided better-defined groupings.
+I implemented the K-Means algorithm to cluster the content. The elbow method did not return a clear automatic elbow value, but visual analysis suggested K=8 as a possible cluster count. However, the Silhouette Score indicated that K=5 provided the best cluster separation, so K=5 was selected as the final number of clusters.
 
 Building on these efforts, I developed a content-based recommender system using a cosine similarity matrix to measure show similarities.
 
