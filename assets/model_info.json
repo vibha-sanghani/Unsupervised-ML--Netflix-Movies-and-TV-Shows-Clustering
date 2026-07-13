@@ -1,0 +1,13 @@
+{
+  "projectName": "Netflix Movies and TV Shows Clustering",
+  "projectType": "Unsupervised Machine Learning",
+  "algorithm": "KMeans Clustering",
+  "numberOfClusters": 6,
+  "vectorization": "TF-IDF",
+  "dimensionalityReduction": "PCA",
+  "pcaComponents": 2500,
+  "totalItems": 7770,
+  "totalMovies": 5372,
+  "totalTvShows": 2398,
+  "recommendationMethod": "Cosine Similarity"
+}
