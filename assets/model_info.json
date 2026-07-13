@@ -2,7 +2,7 @@
   "projectName": "Netflix Movies and TV Shows Clustering",
   "projectType": "Unsupervised Machine Learning",
   "algorithm": "KMeans Clustering",
-  "numberOfClusters": 6,
+  "numberOfClusters": 5,
   "vectorization": "TF-IDF",
   "dimensionalityReduction": "PCA",
   "pcaComponents": 2500,

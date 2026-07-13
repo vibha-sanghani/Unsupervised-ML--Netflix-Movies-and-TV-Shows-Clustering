@@ -1,143 +1,79 @@
 [
   {
     "cluster": 0,
-    "totalItems": 247,
-    "movieCount": 245,
-    "tvShowCount": 2,
+    "totalItems": 378,
+    "movieCount": 330,
+    "tvShowCount": 48,
     "topGenres": [
-      "Music & Musicals",
-      "Documentaries",
-      "International Movies",
-      "Dramas",
-      "Comedies"
+      "Stand-Up Comedy",
+      "Stand-Up Comedy & Talk Shows",
+      "TV Comedies",
+      "International TV Shows",
+      "Music & Musicals"
     ],
     "topCountries": [
       "United States",
-      "United Kingdom",
       "Not Known",
-      "India",
-      "Canada"
+      "United Kingdom",
+      "Mexico",
+      "Brazil"
     ],
     "sampleTitles": [
-      "20 Feet From Stardom",
-      "2015 Dream Concert",
-      "90 ML",
-      "A Cinderella Story: Christmas Wish",
-      "A Very Country Christmas",
-      "A Very Murray Christmas",
-      "ABCD 2",
-      "Across the Universe",
-      "Aiyyaa",
-      "Alejandro Sanz: What I Was Is What I Am"
+      "A Little Help with Carol Burnett",
+      "A Russell Peters Christmas",
+      "Adam Devine: Best Time of Our Lives",
+      "ADAM SANDLER 100% FRESH",
+      "Adel Karam: Live from Beirut",
+      "Aditi Mittal: Things They Wouldn't Let Me Say",
+      "Afonso Padilha: Classless",
+      "Agustín Aristarán: Soy Rada",
+      "Alan Saldaña: Mi vida de pobre",
+      "Alejandro Riaño: Especial de stand up"
     ]
   },
   {
     "cluster": 1,
-    "totalItems": 4166,
-    "movieCount": 3535,
-    "tvShowCount": 631,
+    "totalItems": 2136,
+    "movieCount": 2134,
+    "tvShowCount": 2,
     "topGenres": [
-      "Dramas",
       "International Movies",
+      "Dramas",
       "Comedies",
-      "Action & Adventure",
-      "Independent Movies"
+      "Romantic Movies",
+      "Action & Adventure"
     ],
     "topCountries": [
-      "United States",
-      "United Kingdom",
-      "Canada",
+      "India",
       "France",
+      "Spain",
+      "Egypt",
       "Not Known"
     ],
     "sampleTitles": [
       "7:19",
       "23:59",
-      "9",
-      "21",
       "122",
-      "187",
-      "1922",
-      "3022",
+      "706",
+      "1920",
       "Oct-01",
-      "22-Jul"
+      "15-Aug",
+      "​​Kuch Bheege Alfaaz",
+      "​Goli Soda 2",
+      "​Maj Rati ​​Keteki"
     ]
   },
   {
     "cluster": 2,
-    "totalItems": 216,
-    "movieCount": 68,
-    "tvShowCount": 148,
-    "topGenres": [
-      "Anime Series",
-      "International TV Shows",
-      "Anime Features",
-      "International Movies",
-      "Action & Adventure"
-    ],
-    "topCountries": [
-      "Japan",
-      "United States",
-      "Not Known",
-      "Canada",
-      "China"
-    ],
-    "sampleTitles": [
-      "​SAINT SEIYA: Knights of the Zodiac",
-      "7SEEDS",
-      "A Silent Voice",
-      "A Whisker Away",
-      "A.I.C.O.",
-      "Aggretsuko",
-      "Aggretsuko: We Wish You a Metal Christmas",
-      "AJIN: Demi-Human",
-      "Akame ga Kill!",
-      "Alice in Borderland"
-    ]
-  },
-  {
-    "cluster": 3,
-    "totalItems": 1514,
-    "movieCount": 0,
-    "tvShowCount": 1514,
-    "topGenres": [
-      "International TV Shows",
-      "TV Dramas",
-      "Crime TV Shows",
-      "TV Comedies",
-      "Romantic TV Shows"
-    ],
-    "topCountries": [
-      "United States",
-      "United Kingdom",
-      "Not Known",
-      "South Korea",
-      "Taiwan"
-    ],
-    "sampleTitles": [
-      "3%",
-      "46",
-      "1983",
-      "1994",
-      "Feb-09",
-      "แผนร้ายนายเจ้าเล่ห์",
-      "Şubat",
-      "100 Days My Prince",
-      "100% Hotter",
-      "12 Years Promise"
-    ]
-  },
-  {
-    "cluster": 4,
-    "totalItems": 732,
-    "movieCount": 633,
-    "tvShowCount": 99,
+    "totalItems": 860,
+    "movieCount": 762,
+    "tvShowCount": 98,
     "topGenres": [
       "Documentaries",
       "International Movies",
+      "Music & Musicals",
       "Sports Movies",
-      "Docuseries",
-      "Reality TV"
+      "Docuseries"
     ],
     "topCountries": [
       "United States",
@@ -160,35 +96,67 @@
     ]
   },
   {
-    "cluster": 5,
-    "totalItems": 895,
-    "movieCount": 891,
-    "tvShowCount": 4,
+    "cluster": 3,
+    "totalItems": 1502,
+    "movieCount": 0,
+    "tvShowCount": 1502,
     "topGenres": [
-      "International Movies",
-      "Dramas",
-      "Comedies",
-      "Independent Movies",
-      "Action & Adventure"
+      "International TV Shows",
+      "TV Dramas",
+      "Crime TV Shows",
+      "Romantic TV Shows",
+      "TV Comedies"
     ],
     "topCountries": [
-      "India",
-      "Not Known",
-      "Pakistan",
       "United States",
-      "United Kingdom"
+      "United Kingdom",
+      "Not Known",
+      "South Korea",
+      "Japan"
     ],
     "sampleTitles": [
-      "706",
-      "1920",
-      "15-Aug",
-      "​​Kuch Bheege Alfaaz",
-      "​Goli Soda 2",
-      "​Maj Rati ​​Keteki",
-      "​Mayurakshi",
-      "1000 Rupee Note",
-      "2 States",
-      "25 Kille"
+      "3%",
+      "46",
+      "1983",
+      "1994",
+      "Feb-09",
+      "แผนร้ายนายเจ้าเล่ห์",
+      "Şubat",
+      "100 Days My Prince",
+      "100% Hotter",
+      "12 Years Promise"
+    ]
+  },
+  {
+    "cluster": 4,
+    "totalItems": 2894,
+    "movieCount": 2146,
+    "tvShowCount": 748,
+    "topGenres": [
+      "Dramas",
+      "Comedies",
+      "Children & Family Movies",
+      "Action & Adventure",
+      "Independent Movies"
+    ],
+    "topCountries": [
+      "United States",
+      "United Kingdom",
+      "Canada",
+      "Japan",
+      "Not Known"
+    ],
+    "sampleTitles": [
+      "9",
+      "21",
+      "187",
+      "1922",
+      "3022",
+      "22-Jul",
+      "'89",
+      "​SAINT SEIYA: Knights of the Zodiac",
+      "#blackAF",
+      "#realityhigh"
     ]
   }
 ]
