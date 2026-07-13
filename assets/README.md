@@ -4,10 +4,10 @@ This folder contains Flutter-compatible JSON files generated from the Netflix ML
 
 ## Files
 
-- assets/ml/movies.json
-- assets/ml/recommendations.json
-- assets/ml/cluster_summary.json
-- assets/ml/model_info.json
+- assets/movies.json
+- assets/recommendations.json
+- assets/cluster_summary.json
+- assets/model_info.json
 
 ## Purpose
 
